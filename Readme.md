@@ -1,4 +1,5 @@
-#Name - Nitin Kaushik
+# Name - Nitin Kaushik
 
 ``` 
-Email : nitin.kaushik@accolitedigital.com ```
+Email : nitin.kaushik@accolitedigital.com
+```
